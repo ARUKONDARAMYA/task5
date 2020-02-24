@@ -1,0 +1,17 @@
+2020-02-24 19:48:34 INFO  App:22 - Enter PrincipalAmount
+
+2020-02-24 19:48:40 INFO  App:24 - Enter Time
+
+2020-02-24 19:48:42 INFO  App:26 - Enter Rate
+
+2020-02-24 19:48:44 INFO  App:30 - Simple Interest is 408.0
+2020-02-24 19:48:44 INFO  App:31 - 
+
+2020-02-24 19:48:44 INFO  App:34 - CompoundInterst is 3429.2836570080003
+2020-02-24 19:48:49 INFO  App:13 - Enter materialtype
+
+2020-02-24 19:48:59 INFO  App:16 - Enter totalareaofhouse
+
+2020-02-24 19:49:02 INFO  App:18 - Enter full automated home or not
+
+2020-02-24 19:49:03 INFO  App:26 - 51000000
